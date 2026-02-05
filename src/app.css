@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Teko;
+  src: url('$lib/teko/Teko-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Teko;
+  src: url('$lib/teko/Teko-Bold.ttf');
+  font-weight: normal;
+  font-style: bold;
+}
