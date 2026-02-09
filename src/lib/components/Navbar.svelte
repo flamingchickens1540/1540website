@@ -8,6 +8,8 @@
 <div
     class="bg-[#4081ca] font-[Teko] overflow-visible flex flex-row-reverse items-center"
 >
+    <img class="absolute h-15 left-0" src="src/lib/assets/logos-01.png" alt="Team 1540 Logo"/>  
+
     <div class="relative group">
         <button
             class={`text-[24px] text-white py-3.5 px-4 flex items-center gap-1 hover:bg-[#8CB3DF] ${
@@ -27,23 +29,23 @@
         >
             <a
                 href="/information/about"
-                class="block px-4 py-3 text-black hover:bg-gray-300">ABOUT US</a
+                class="block px-4 py-3 text-[#1C1C1C] hover:bg-gray-300">ABOUT US</a
             >
             <a
                 href="/information/awards"
-                class="block px-4 py-3 text-black hover:bg-gray-300">AWARDS</a
+                class="block px-4 py-3 text-[#1C1C1C] hover:bg-gray-300">AWARDS</a
             >
             <a
                 href="/information/publicity"
-                class="block px-4 py-3 text-black hover:bg-gray-300"
+                class="block px-4 py-3 text-[#1C1C1C] hover:bg-gray-300"
                 >TEAM PUBLICITY</a
             >
             <a
                 href="/information/contact"
-                class="block px-4 py-3 text-black hover:bg-gray-300"
+                class="block px-4 py-3 text-[#1C1C1C] hover:bg-gray-300"
                 >CONTACT US</a
             >
-            <a href="/faq" class="block px-4 py-3 text-black hover:bg-gray-300"
+            <a href="/faq" class="block px-4 py-3 text-[#1C1C1C] hover:bg-gray-300"
                 >FAQ</a
             >
         </div>
