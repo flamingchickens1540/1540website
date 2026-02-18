@@ -21,7 +21,8 @@
 
 <div>
     <div
-        class="text-5xl md:text-6xl font-[Teko] bg-linear-to-r from-[#F6B14B] via-[#FF8547] to-[#F6B14B] bg-clip-text text-transparent animate-glow drop-shadow-xl"
+        class="text-5xl md:text-6xl font-[Teko] text-[#F6B14B]
+        bg-clip-text animate-glow drop-shadow-xl"
     >
         {count}
     </div>

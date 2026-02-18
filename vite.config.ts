@@ -8,7 +8,7 @@ export default defineConfig({
     fs: {
       allow: [
         process.cwd(),
-        "/Users/vikasbanerjeemurthy/Downloads/Coding/App SW/1540website-main/static/assets"
+        "/static/assets"
       ]
     }
   }
